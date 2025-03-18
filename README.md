@@ -29,9 +29,7 @@ cd tasknest
 Installing Dependencies
 Before running the project, install the necessary dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 Running the Backend
 To start the backend server, make sure MongoDB is running, then execute:
