@@ -5,7 +5,9 @@ Prerequisites
 Before you begin, make sure you have the following installed on your machine:
 
 Node.js: Download and install Node.js from nodejs.org.
+
 npm (Node Package Manager): npm is included with the Node.js installation.
+
 MongoDB: Install MongoDB and ensure it is running on your system.
 
 Note for Windows Users:
