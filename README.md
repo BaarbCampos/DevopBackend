@@ -21,7 +21,7 @@ Getting Started
 First, clone the repository to your local machine using the following command:
 
 
-git clone https://github.com/your-repo/tasknest.git
+git clone https://github.com/BaarbCampos/DevopBackend
 Navigate to the project directory:
 
 
